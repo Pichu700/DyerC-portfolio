@@ -1,9 +1,9 @@
 body {
-    background-color: limegreen;
+    background-image: url(http://www.commentnation.com/backgrounds/images/neon_green_upholstery_fabric_texture_background_seamless.jpg);
 }
 
 a{
-    color: grey;
+    color:  purple;
 }
 #current-link{
   text-decoration: none;  
