@@ -1,10 +1,11 @@
 body {
     background-image: url(http://www.commentnation.com/backgrounds/images/neon_green_upholstery_fabric_texture_background_seamless.jpg);
 }
-
+/*This changes the background of my website*/
 a{
     color:  purple;
 }
+/*This changes the colors of links*/
 #current-link{
   text-decoration: none;  
 }
